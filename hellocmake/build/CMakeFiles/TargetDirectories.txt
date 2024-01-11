@@ -1,0 +1,3 @@
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/helloworld.dir
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/edit_cache.dir
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/rebuild_cache.dir
