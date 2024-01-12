@@ -1,3 +1,7 @@
 /home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/helloworld.dir
 /home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/edit_cache.dir
 /home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/rebuild_cache.dir
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/list_install_components.dir
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/install.dir
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/install/local.dir
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/build/CMakeFiles/install/strip.dir

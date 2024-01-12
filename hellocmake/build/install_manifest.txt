@@ -1,0 +1,2 @@
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/installdir/bin/helloworld
+/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellocmake/installdir/include/message.hpp
