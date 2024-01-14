@@ -1,0 +1,1 @@
+savedcmd_/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/modules.order := {   echo /home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/hello_world.o; :; } > /home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/modules.order

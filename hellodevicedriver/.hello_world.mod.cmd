@@ -1,0 +1,1 @@
+savedcmd_/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/hello_world.mod := printf '%s\n'   hello_world.o | awk '!x[$$0]++ { print("/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/"$$0) }' > /home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/hello_world.mod

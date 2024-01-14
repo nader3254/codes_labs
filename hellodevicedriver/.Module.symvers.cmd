@@ -1,0 +1,1 @@
+savedcmd_/home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/Module.symvers -T /home/nader/Desktop/ElectroEmbedded/workspace/codes_labs/hellodevicedriver/modules.order -i Module.symvers -e 
